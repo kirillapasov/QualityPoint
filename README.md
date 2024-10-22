@@ -13,7 +13,7 @@ QualityPoint — это консольное Java-приложение, кото
 
 1. Склонируйте репозиторий (или загрузите проект на локальный компьютер):
     ```bash
-    git clone <URL вашего репозитория>
+    git clone https://github.com/kirillapasov/QualityPoint.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
